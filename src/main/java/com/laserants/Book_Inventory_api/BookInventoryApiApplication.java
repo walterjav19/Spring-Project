@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BookInventoryApiApplication {
 
 	public static void main(String[] args) {
+		//aqui se inicia spring
 		SpringApplication.run(BookInventoryApiApplication.class, args);
 	}
 
